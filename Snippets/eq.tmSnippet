@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>(eq ${1:(${2:a})} ${3:(${4:b})})</string>
+	<key>name</key>
+	<string>eq</string>
+	<key>scope</key>
+	<string>source.nu</string>
+	<key>tabTrigger</key>
+	<string>eq</string>
+	<key>uuid</key>
+	<string>76CB462F-4E8D-4D9E-A446-451972B096BF</string>
+</dict>
+</plist>
